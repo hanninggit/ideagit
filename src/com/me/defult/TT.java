@@ -7,6 +7,7 @@ public class TT {
     public void test() {
         String s = new String("lkjflkjlkj");
         System.out.println(s);
+        System.out.println("通过idea从git拉取项目");
     }
 
 }
