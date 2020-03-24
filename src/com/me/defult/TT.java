@@ -8,6 +8,7 @@ public class TT {
         String s = new String("lkjflkjlkj");
         System.out.println(s);
         System.out.println("通过idea从git拉取项目");
+        System.out.println("通过idea在拉取的项目上增加一个输出");
     }
 
 }
